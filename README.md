@@ -44,9 +44,9 @@ diretório padrão HOMEPATH/data/in e colocar o arquivo de saída em
 HOMEPATH/data/out. 
 
 No arquivo de saída o sistema deverá possuir os seguintes dados:  
-● Quantidade de clientes no arquivo de entrada 
-● Quantidade de vendedores no arquivo de entrada 
-● ID da venda mais cara 
+● Quantidade de clientes no arquivo de entrada  
+● Quantidade de vendedores no arquivo de entrada  
+● ID da venda mais cara  
 ● O pior vendedor
 
 Requisitos Técnicos:  
