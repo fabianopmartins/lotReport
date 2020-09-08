@@ -1,13 +1,13 @@
 # lotReport
 
-#Objetivo da prova:
+# Objetivo da prova:
 
 O objetivo da prova é testarmos suas habilidades em desenvolvimento de 
 software. Iremos avaliar mais do que o funcionamento da solução proposta, 
 avaliaremos a sua abordagem, a sua capacidade analítica, boas práticas de 
 engenharia de software, performance e escalabilidade da solução. 
 
-#Descrição:
+# Descrição:
 
 Criar um sistema de análise de dados de venda que irá importar lotes de arquivos 
 e produzir um relatório baseado em informações presentes no mesmo. 
